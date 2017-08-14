@@ -5,7 +5,7 @@ writing-workshop is a cross-platform (Windows, Mac, and Linux) app-store with to
 
 ![](screenshot.png)
 
-## Roadmap, Catgories, and Ideas
+## Roadmap, Categories, and Ideas
 - Apps for Generating Ideas
 - Tools for Collecting writing entries
 - Apps for voting/choosing a seed idea
