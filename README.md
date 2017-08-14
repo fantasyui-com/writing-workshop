@@ -3,7 +3,7 @@ Open source app store for poets, writers and philosophers.
 
 writing-workshop is a cross-platform (Windows, Mac, and Linux) app-store with tools for writers inspired by the early work of Graves and Murray, see [Writing Workshop](https://en.wikipedia.org/wiki/Writing_Workshop) for more information.
 
-![screenshot.png]
+![](screenshot.png)
 
 ## Roadmap, Catgories, and Ideas
 - Apps for Generating Ideas
